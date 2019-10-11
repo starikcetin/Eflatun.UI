@@ -1,0 +1,9 @@
+{
+    "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
+    "dependencies": {},
+    "description": "UI utilities for Unity.",
+    "displayName": "Eflatun.UI",
+    "license": "MIT",
+    "name": "com.eflatun.ui",
+    "version": "0.0.1"
+}
