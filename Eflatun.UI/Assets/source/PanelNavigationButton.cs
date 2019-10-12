@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace Eflatun.UI.source
+namespace Eflatun.UI
 {
     /// <summary>
     /// A Button type that navigates between two panels when clicked.

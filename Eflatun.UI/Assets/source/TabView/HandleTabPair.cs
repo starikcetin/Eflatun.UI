@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Eflatun.UI.source.TabView
+namespace Eflatun.UI.TabView
 {
     [Serializable]
     public class HandleTabPair

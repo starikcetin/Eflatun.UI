@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Eflatun.UI.source
+namespace Eflatun.UI
 {
     /// <summary>
     /// A component to identify and interfere with Panel gameObjects.
