@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Eflatun.UI.source
+namespace Eflatun.UI
 {
     /// <summary>
     /// Has an <see cref="OnClick"/> event that will get invoked when button is clicked.
@@ -16,7 +16,7 @@ namespace Eflatun.UI.source
 
         protected override void OnClickListener()
         {
-            OnClick.InvokeSafe();
+            OnClick?.Invoke();
         }
 
         #endregion

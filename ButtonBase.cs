@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace Eflatun.UI.source
+namespace Eflatun.UI
 {
     /// <summary>
     /// Base class for button interactions.

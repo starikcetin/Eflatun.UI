@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Eflatun.UI.source
+namespace Eflatun.UI
 {
     /// <summary>
     /// A Button that quits the application when clicked.
